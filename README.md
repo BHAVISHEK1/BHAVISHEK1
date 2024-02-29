@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Yadav 
 - 👀 I’m interested in learning FrontEnd an BackEnd technologies 
-- 🌱 I’m currently learning ReactJS framework
+- 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me : ay7924252@gmail.com 
 
 <!---
